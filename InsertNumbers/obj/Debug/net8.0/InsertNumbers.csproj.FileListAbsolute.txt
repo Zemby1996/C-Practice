@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\bin\Debug\net8.0\InsertNumbers.exe
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\bin\Debug\net8.0\InsertNumbers.deps.json
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\bin\Debug\net8.0\InsertNumbers.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\bin\Debug\net8.0\InsertNumbers.dll
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\bin\Debug\net8.0\InsertNumbers.pdb
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\obj\Debug\net8.0\InsertNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\obj\Debug\net8.0\InsertNumbers.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\obj\Debug\net8.0\InsertNumbers.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\obj\Debug\net8.0\InsertNumbers.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\obj\Debug\net8.0\InsertNumbers.dll
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\obj\Debug\net8.0\refint\InsertNumbers.dll
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\obj\Debug\net8.0\InsertNumbers.pdb
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\obj\Debug\net8.0\InsertNumbers.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\InsertNumbers\obj\Debug\net8.0\ref\InsertNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\bin\Debug\net8.0\ParkingCalculator.exe
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\bin\Debug\net8.0\ParkingCalculator.deps.json
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\bin\Debug\net8.0\ParkingCalculator.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\bin\Debug\net8.0\ParkingCalculator.dll
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\bin\Debug\net8.0\ParkingCalculator.pdb
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\obj\Debug\net8.0\ParkingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\obj\Debug\net8.0\ParkingCalculator.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\obj\Debug\net8.0\ParkingCalculator.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\obj\Debug\net8.0\ParkingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\obj\Debug\net8.0\ParkingCalculator.dll
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\obj\Debug\net8.0\refint\ParkingCalculator.dll
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\obj\Debug\net8.0\ParkingCalculator.pdb
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\obj\Debug\net8.0\ParkingCalculator.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\ParkingCalculator\obj\Debug\net8.0\ref\ParkingCalculator.dll

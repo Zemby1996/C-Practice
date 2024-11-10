@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\Practice - C#\ListTask\obj\Debug\net8.0\ListTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\ListTask\obj\Debug\net8.0\ListTask.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\ListTask\obj\Debug\net8.0\ListTask.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\ListTask\obj\Debug\net8.0\ListTask.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\ListTask\bin\Debug\net8.0\ListTask.exe
+C:\Users\piotr\Desktop\Practice - C#\ListTask\bin\Debug\net8.0\ListTask.deps.json
+C:\Users\piotr\Desktop\Practice - C#\ListTask\bin\Debug\net8.0\ListTask.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\ListTask\bin\Debug\net8.0\ListTask.dll
+C:\Users\piotr\Desktop\Practice - C#\ListTask\bin\Debug\net8.0\ListTask.pdb
+C:\Users\piotr\Desktop\Practice - C#\ListTask\obj\Debug\net8.0\ListTask.dll
+C:\Users\piotr\Desktop\Practice - C#\ListTask\obj\Debug\net8.0\refint\ListTask.dll
+C:\Users\piotr\Desktop\Practice - C#\ListTask\obj\Debug\net8.0\ListTask.pdb
+C:\Users\piotr\Desktop\Practice - C#\ListTask\obj\Debug\net8.0\ListTask.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\ListTask\obj\Debug\net8.0\ref\ListTask.dll

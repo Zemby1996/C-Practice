@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\bin\Debug\net8.0\TemperatureAnalyzer.exe
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\bin\Debug\net8.0\TemperatureAnalyzer.deps.json
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\bin\Debug\net8.0\TemperatureAnalyzer.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\bin\Debug\net8.0\TemperatureAnalyzer.dll
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\bin\Debug\net8.0\TemperatureAnalyzer.pdb
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\obj\Debug\net8.0\TemperatureAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\obj\Debug\net8.0\TemperatureAnalyzer.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\obj\Debug\net8.0\TemperatureAnalyzer.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\obj\Debug\net8.0\TemperatureAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\obj\Debug\net8.0\TemperatureAnalyzer.dll
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\obj\Debug\net8.0\refint\TemperatureAnalyzer.dll
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\obj\Debug\net8.0\TemperatureAnalyzer.pdb
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\obj\Debug\net8.0\TemperatureAnalyzer.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\TemperatureAnalyzer\obj\Debug\net8.0\ref\TemperatureAnalyzer.dll

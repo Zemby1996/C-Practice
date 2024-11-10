@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\bin\Debug\net8.0\Phonebook.exe
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\bin\Debug\net8.0\Phonebook.deps.json
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\bin\Debug\net8.0\Phonebook.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\bin\Debug\net8.0\Phonebook.dll
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\bin\Debug\net8.0\Phonebook.pdb
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\obj\Debug\net8.0\Phonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\obj\Debug\net8.0\Phonebook.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\obj\Debug\net8.0\Phonebook.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\obj\Debug\net8.0\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\obj\Debug\net8.0\Phonebook.dll
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\obj\Debug\net8.0\refint\Phonebook.dll
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\obj\Debug\net8.0\Phonebook.pdb
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\obj\Debug\net8.0\Phonebook.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\Phonebook\obj\Debug\net8.0\ref\Phonebook.dll

@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\bin\Debug\net8.0\EvenNumberGenerator.exe
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\bin\Debug\net8.0\EvenNumberGenerator.deps.json
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\bin\Debug\net8.0\EvenNumberGenerator.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\bin\Debug\net8.0\EvenNumberGenerator.dll
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\bin\Debug\net8.0\EvenNumberGenerator.pdb
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\obj\Debug\net8.0\EvenNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\obj\Debug\net8.0\EvenNumberGenerator.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\obj\Debug\net8.0\EvenNumberGenerator.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\obj\Debug\net8.0\EvenNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\obj\Debug\net8.0\EvenNumberGenerator.dll
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\obj\Debug\net8.0\refint\EvenNumberGenerator.dll
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\obj\Debug\net8.0\EvenNumberGenerator.pdb
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\obj\Debug\net8.0\EvenNumberGenerator.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\EvenNumberGenerator\obj\Debug\net8.0\ref\EvenNumberGenerator.dll

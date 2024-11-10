@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\bin\Debug\net8.0\DaysSinceBirth.exe
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\bin\Debug\net8.0\DaysSinceBirth.deps.json
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\bin\Debug\net8.0\DaysSinceBirth.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\bin\Debug\net8.0\DaysSinceBirth.dll
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\bin\Debug\net8.0\DaysSinceBirth.pdb
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\obj\Debug\net8.0\DaysSinceBirth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\obj\Debug\net8.0\DaysSinceBirth.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\obj\Debug\net8.0\DaysSinceBirth.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\obj\Debug\net8.0\DaysSinceBirth.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\obj\Debug\net8.0\DaysSinceBirth.dll
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\obj\Debug\net8.0\refint\DaysSinceBirth.dll
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\obj\Debug\net8.0\DaysSinceBirth.pdb
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\obj\Debug\net8.0\DaysSinceBirth.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\DaysSinceBirth\obj\Debug\net8.0\ref\DaysSinceBirth.dll

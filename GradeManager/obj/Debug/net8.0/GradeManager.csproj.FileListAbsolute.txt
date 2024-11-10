@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\bin\Debug\net8.0\GradeManager.exe
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\bin\Debug\net8.0\GradeManager.deps.json
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\bin\Debug\net8.0\GradeManager.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\bin\Debug\net8.0\GradeManager.dll
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\bin\Debug\net8.0\GradeManager.pdb
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\obj\Debug\net8.0\GradeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\obj\Debug\net8.0\GradeManager.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\obj\Debug\net8.0\GradeManager.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\obj\Debug\net8.0\GradeManager.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\obj\Debug\net8.0\GradeManager.dll
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\obj\Debug\net8.0\refint\GradeManager.dll
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\obj\Debug\net8.0\GradeManager.pdb
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\obj\Debug\net8.0\GradeManager.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\GradeManager\obj\Debug\net8.0\ref\GradeManager.dll
