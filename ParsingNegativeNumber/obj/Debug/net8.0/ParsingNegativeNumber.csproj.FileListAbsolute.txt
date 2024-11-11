@@ -1,0 +1,15 @@
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\bin\Debug\net8.0\ParsingNegativeNumber.exe
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\bin\Debug\net8.0\ParsingNegativeNumber.deps.json
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\bin\Debug\net8.0\ParsingNegativeNumber.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\bin\Debug\net8.0\ParsingNegativeNumber.dll
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\bin\Debug\net8.0\ParsingNegativeNumber.pdb
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\obj\Debug\net8.0\ParsingNegativeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\obj\Debug\net8.0\ParsingNegativeNumber.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\obj\Debug\net8.0\ParsingNegativeNumber.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\obj\Debug\net8.0\ParsingNegativeNumber.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\obj\Debug\net8.0\ParsingNegativeNumber.sourcelink.json
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\obj\Debug\net8.0\ParsingNegativeNumber.dll
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\obj\Debug\net8.0\refint\ParsingNegativeNumber.dll
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\obj\Debug\net8.0\ParsingNegativeNumber.pdb
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\obj\Debug\net8.0\ParsingNegativeNumber.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\ParsingNegativeNumber\obj\Debug\net8.0\ref\ParsingNegativeNumber.dll
