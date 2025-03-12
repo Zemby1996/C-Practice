@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0qUM+6wXZw0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\LINQIntroduction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piotr\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

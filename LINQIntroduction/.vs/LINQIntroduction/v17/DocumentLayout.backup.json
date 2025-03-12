@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|c:\\users\\piotr\\desktop\\practice - c#\\linqintroduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|c:\\users\\piotr\\desktop\\practice - c#\\linqintroduction\\googleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|solutionrelative:googleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|c:\\users\\piotr\\desktop\\practice - c#\\linqintroduction\\googleappdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|solutionrelative:googleappdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|c:\\users\\piotr\\desktop\\practice - c#\\linqintroduction\\googleappmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|solutionrelative:googleappmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|c:\\users\\piotr\\desktop\\practice - c#\\linqintroduction\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|solutionrelative:type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|c:\\users\\piotr\\desktop\\practice - c#\\linqintroduction\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53C926E-0E8D-4572-9724-B20EC3A7EB55}|LINQIntroduction.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:33:47.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoogleApp.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\GoogleApp.cs",
+              "RelativeDocumentMoniker": "GoogleApp.cs",
+              "ToolTip": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\GoogleApp.cs",
+              "RelativeToolTip": "GoogleApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:36:39.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoogleAppMap.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\GoogleAppMap.cs",
+              "RelativeDocumentMoniker": "GoogleAppMap.cs",
+              "ToolTip": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\GoogleAppMap.cs",
+              "RelativeToolTip": "GoogleAppMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:36:53.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoogleAppDto.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\GoogleAppDto.cs",
+              "RelativeDocumentMoniker": "GoogleAppDto.cs",
+              "ToolTip": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\GoogleAppDto.cs",
+              "RelativeToolTip": "GoogleAppDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:36:52.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:36:17.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\Type.cs",
+              "RelativeDocumentMoniker": "Type.cs",
+              "ToolTip": "C:\\Users\\piotr\\Desktop\\Practice - C#\\LINQIntroduction\\Type.cs",
+              "RelativeToolTip": "Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:37:04.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
