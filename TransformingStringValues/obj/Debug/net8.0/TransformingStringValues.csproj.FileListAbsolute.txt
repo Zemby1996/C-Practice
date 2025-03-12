@@ -1,0 +1,15 @@
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\bin\Debug\net8.0\TransformingStringValues.exe
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\bin\Debug\net8.0\TransformingStringValues.deps.json
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\bin\Debug\net8.0\TransformingStringValues.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\bin\Debug\net8.0\TransformingStringValues.dll
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\bin\Debug\net8.0\TransformingStringValues.pdb
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\obj\Debug\net8.0\TransformingStringValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\obj\Debug\net8.0\TransformingStringValues.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\obj\Debug\net8.0\TransformingStringValues.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\obj\Debug\net8.0\TransformingStringValues.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\obj\Debug\net8.0\TransformingStringValues.sourcelink.json
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\obj\Debug\net8.0\TransformingStringValues.dll
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\obj\Debug\net8.0\refint\TransformingStringValues.dll
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\obj\Debug\net8.0\TransformingStringValues.pdb
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\obj\Debug\net8.0\TransformingStringValues.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\TransformingStringValues\obj\Debug\net8.0\ref\TransformingStringValues.dll

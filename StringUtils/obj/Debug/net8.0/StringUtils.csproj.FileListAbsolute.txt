@@ -1,0 +1,15 @@
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\obj\Debug\net8.0\StringUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\obj\Debug\net8.0\StringUtils.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\obj\Debug\net8.0\StringUtils.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\obj\Debug\net8.0\StringUtils.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\obj\Debug\net8.0\StringUtils.sourcelink.json
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\bin\Debug\net8.0\StringUtils.exe
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\bin\Debug\net8.0\StringUtils.deps.json
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\bin\Debug\net8.0\StringUtils.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\bin\Debug\net8.0\StringUtils.dll
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\bin\Debug\net8.0\StringUtils.pdb
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\obj\Debug\net8.0\StringUtils.dll
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\obj\Debug\net8.0\refint\StringUtils.dll
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\obj\Debug\net8.0\StringUtils.pdb
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\obj\Debug\net8.0\StringUtils.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\StringUtils\obj\Debug\net8.0\ref\StringUtils.dll

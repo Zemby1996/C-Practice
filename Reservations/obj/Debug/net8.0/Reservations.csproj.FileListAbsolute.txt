@@ -1,0 +1,15 @@
+C:\Users\piotr\Desktop\Practice - C#\Reservations\bin\Debug\net8.0\Reservations.exe
+C:\Users\piotr\Desktop\Practice - C#\Reservations\bin\Debug\net8.0\Reservations.deps.json
+C:\Users\piotr\Desktop\Practice - C#\Reservations\bin\Debug\net8.0\Reservations.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\Reservations\bin\Debug\net8.0\Reservations.dll
+C:\Users\piotr\Desktop\Practice - C#\Reservations\bin\Debug\net8.0\Reservations.pdb
+C:\Users\piotr\Desktop\Practice - C#\Reservations\obj\Debug\net8.0\Reservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\Reservations\obj\Debug\net8.0\Reservations.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\Reservations\obj\Debug\net8.0\Reservations.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\Reservations\obj\Debug\net8.0\Reservations.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\Reservations\obj\Debug\net8.0\Reservations.sourcelink.json
+C:\Users\piotr\Desktop\Practice - C#\Reservations\obj\Debug\net8.0\Reservations.dll
+C:\Users\piotr\Desktop\Practice - C#\Reservations\obj\Debug\net8.0\refint\Reservations.dll
+C:\Users\piotr\Desktop\Practice - C#\Reservations\obj\Debug\net8.0\Reservations.pdb
+C:\Users\piotr\Desktop\Practice - C#\Reservations\obj\Debug\net8.0\Reservations.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\Reservations\obj\Debug\net8.0\ref\Reservations.dll

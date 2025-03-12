@@ -1,0 +1,15 @@
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\bin\Debug\net8.0\FirstProject.exe
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\bin\Debug\net8.0\FirstProject.deps.json
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\bin\Debug\net8.0\FirstProject.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\bin\Debug\net8.0\FirstProject.dll
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\bin\Debug\net8.0\FirstProject.pdb
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\obj\Debug\net8.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\obj\Debug\net8.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\obj\Debug\net8.0\FirstProject.sourcelink.json
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\obj\Debug\net8.0\FirstProject.dll
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\obj\Debug\net8.0\refint\FirstProject.dll
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\obj\Debug\net8.0\FirstProject.pdb
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\obj\Debug\net8.0\FirstProject.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\FirstProject\obj\Debug\net8.0\ref\FirstProject.dll
