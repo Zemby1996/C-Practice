@@ -1,0 +1,17 @@
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\bin\Debug\net8.0-windows\BMICalculatorWinForms.exe
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\bin\Debug\net8.0-windows\BMICalculatorWinForms.deps.json
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\bin\Debug\net8.0-windows\BMICalculatorWinForms.runtimeconfig.json
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\bin\Debug\net8.0-windows\BMICalculatorWinForms.dll
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\bin\Debug\net8.0-windows\BMICalculatorWinForms.pdb
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\BMICalculatorWinForms.Form1.resources
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\BMICalculatorWinForms.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\BMICalculatorWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\BMICalculatorWinForms.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\BMICalculatorWinForms.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\BMICalculatorWinForms.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\BMICalculatorWinForms.sourcelink.json
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\BMICalculatorWinForms.dll
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\refint\BMICalculatorWinForms.dll
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\BMICalculatorWinForms.pdb
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\BMICalculatorWinForms.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Practice - C#\BMICalculatorWinForms\obj\Debug\net8.0-windows\ref\BMICalculatorWinForms.dll
